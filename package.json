@@ -1,7 +1,7 @@
 {
-  "name": "rest-api",
+  "name": "contact app vue",
   "version": "1.0.0",
-  "description": "rest, js",
+  "description": "vue, js",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ism4tullo/rest-api.git"
+    "url": ""
   },
   "author": "ism4tullo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ism4tullo/rest-api/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/ism4tullo/rest-api#readme",
+  "homepage": "",
   "dependencies": {
     "express": "^4.17.1"
   },
